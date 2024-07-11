@@ -1,0 +1,6 @@
+﻿  Command.cpp
+  main.cpp
+  Generating Code...
+C:\Users\LOI\source\repos\DSA_Project\DSA_Project\Command.cpp(212,1): warning C4715: 'GetAlgorithmDescription': not all control paths return a value
+C:\Users\LOI\source\repos\DSA_Project\DSA_Project\Command.cpp(176,1): warning C4715: 'GetInputOrderDescription': not all control paths return a value
+  DSA_Project.vcxproj -> C:\Users\LOI\source\repos\DSA_Project\x64\Debug\a.exe
